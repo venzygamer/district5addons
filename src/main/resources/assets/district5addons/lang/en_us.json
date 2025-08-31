@@ -1,0 +1,13 @@
+{
+  "itemGroup.district5addons": "Example Mod Tab",
+  "block.district5addons.example_block": "Example Block",
+  "item.district5addons.example_item": "Example Item",
+
+  "district5addons.configuration.title": "District 5 Addons Configs",
+  "district5addons.configuration.section.district5addons.common.toml": "District 5 Addons Configs",
+  "district5addons.configuration.section.district5addons.common.toml.title": "District 5 Addons Configs",
+  "district5addons.configuration.items": "Item List",
+  "district5addons.configuration.logDirtBlock": "Log Dirt Block",
+  "district5addons.configuration.magicNumberIntroduction": "Magic Number Text",
+  "district5addons.configuration.magicNumber": "Magic Number"
+}
